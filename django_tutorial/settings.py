@@ -40,6 +40,8 @@ INSTALLED_APPS = [
     
     # 220926 최해민 articles앱 추가
     'articles',
+    # 220926 최해민 foods앱 추가
+    'foods',
 ]
 
 MIDDLEWARE = [
